@@ -1,6 +1,6 @@
 # kage-editor
 
-The aim of this project is to port the glyph editor used on [GlyphWiki](https://glyphwiki.org/), which is currently implemented as a Flash app, into an HTML5 / JavaScript app
+The aim of this project is to port the glyph editor used on [GlyphWiki](https://glyphwiki.org/), which is currently implemented as a Flash app, into an HTML5 / JavaScript app.
 
 Flash で実装されている [GlyphWiki](https://glyphwiki.org/) のグリフエディタを HTML5 / JavaScript アプリに移植するプロジェクト
 
